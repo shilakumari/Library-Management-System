@@ -1,0 +1,3 @@
+MemberID,Name,PasswordHash,Email,JoinDate,Role
+1001,Shila Librarian,$2b$12$UoopmsK9bhyklUshn61NauuOyJQtF0d/nILpEpwtzw.ul.CKy2BmS,shilalibrarian@library.com,2025-01-01,Librarian
+1002,Shila Kumari,$2b$12$b.qZmLP0/8/yhPnZHf4Lme7WEbvRVTedhuRxFeBT1qcyfo1fm.TEi,shila@mail.com,2025-05-10,Member
